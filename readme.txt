@@ -13,6 +13,8 @@ Percentage increase calculator to find an increase from one number to another, c
 
 Percentage increase calculator to find an increase from one number to another, calculate growth rate and calculate price increase in percentages.
 
+[Percentage Increase Calculator Homepage](https://www.calculator.io/percentage-increase-calculator/ "Percentage Increase Calculator Homepage")
+
 __Shortcode__
 
 Use the Percentage Increase Calculator shortcode:
