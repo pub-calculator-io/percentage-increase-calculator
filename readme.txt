@@ -1,6 +1,6 @@
 === Percentage Increase Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: percentage increase, increase percentage, percentage increase formula, increase percentage calculator, percentage increase calculator online, calculate percentage increase, percentage increase between two numbers, percentage increase between, find percentage increase, percentage increase equation
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
