@@ -1,4 +1,4 @@
-# Percentage Increase Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Percentage Increase Calculator Widget for WordPress
 
 Percentage increase calculator to find an increase from one number to another, calculate growth rate and calculate price increase in percentages.
 
