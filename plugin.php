@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Percentage Increase Calculator by www.calculator.io
+Plugin Name: CI Percentage increase calculator
 Plugin URI: https://www.calculator.io/percentage-increase-calculator/
 Description: Percentage increase calculator to find an increase from one number to another, calculate growth rate and calculate price increase in percentages.
 Version: 1.0.0
