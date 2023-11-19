@@ -7,7 +7,7 @@ Percentage increase calculator to find an increase from one number to another, c
 
 ## Installation
 
-1. [Download](https://github.com/pub-calculator-io/age-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
+1. [Download](https://github.com/pub-calculator-io/percentage-increase-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
 2. Upload the /percentage-increase-calculator-master/ folder to the /wp-content/plugins/ directory.
 3. Activate the [Percentage Increase Calculator](https://www.calculator.io/percentage-increase-calculator/ "Percentage Increase Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
