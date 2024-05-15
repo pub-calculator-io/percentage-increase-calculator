@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Percentage Incr
 == Screenshots ==
 
 1. The Percentage Increase Calculator Input Form.
-2. The Percentage Increase Calculator Calculation Results.
 
 == Installation ==
 

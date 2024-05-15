@@ -3,7 +3,6 @@
 Percentage increase calculator to find an increase from one number to another, calculate growth rate and calculate price increase in percentages.
 
 ![Percentage Increase Calculator Input Form](/assets/images/screenshot-1.png "Percentage Increase Calculator Input Form")
-![Percentage Increase Calculator Calculation Results](/assets/images/screenshot-2.png "Percentage Increase Calculator Calculation Results")
 
 ## Installation
 
